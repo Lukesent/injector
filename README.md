@@ -1,7 +1,7 @@
 
 # Process Injector
 
-CellJectah is a C++ library made 2015-2016 for injecting dynamic link libraries (DLLs) into running processes on Windows, originally used for CSGO and remainded undetected for multiple years. The library provides a simple and convenient API for injecting a DLL into a target process, as well as for parsing information about running processes and loaded modules.
+CellJectah is a C++ library made for injecting dynamic link libraries (DLLs) into running processes on Windows, originally used for CSGO and remainded undetected for multiple years. The library provides a simple and convenient API for injecting a DLL into a target process, as well as for parsing information about running processes and loaded modules.
 
 ## Projects
 
